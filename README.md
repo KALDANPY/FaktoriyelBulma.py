@@ -1,0 +1,2 @@
+# FaktoriyelBulma.py
+Temelkodlamaegzersizi
